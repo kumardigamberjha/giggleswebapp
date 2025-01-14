@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"index.html": "3268c09d41b9a2df28c55156fa815714",
-"/": "3268c09d41b9a2df28c55156fa815714",
+const RESOURCES = {"index.html": "81466b4582080a51a5f10d3f965d1e22",
+"/": "81466b4582080a51a5f10d3f965d1e22",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/assets/images/so.jpg": "f04811e6a827004d857c22aca7d7ec88",
 "assets/assets/images/GD_Logo_01.mp4": "e755e6a22d8d84702e57e4b4dc8a9ad8",
@@ -33,7 +33,7 @@ const RESOURCES = {"index.html": "3268c09d41b9a2df28c55156fa815714",
 "assets/NOTICES": "3e77b201172ac5175c84269ef32048e1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "1c6a52e869e113d2d3d0fce7b6751ba6",
-"flutter_bootstrap.js": "639d8ec48ccff51e6923dd7534f007b6",
+"flutter_bootstrap.js": "a38cf076ca4509c0fea7ee49e1dc1200",
 "canvaskit/chromium/canvaskit.js": "671c6b4f8fcc199dcc551c7bb125f239",
 "canvaskit/chromium/canvaskit.js.symbols": "a012ed99ccba193cf96bb2643003f6fc",
 "canvaskit/chromium/canvaskit.wasm": "b1ac05b29c127d86df4bcfbf50dd902a",
