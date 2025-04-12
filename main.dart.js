@@ -51937,7 +51937,7 @@ p=g.E7("Rest & Mood",A.b([p,g.qj("Mood Today",o==null?d:o,B.P2)],a2))
 o=g.d.i(0,"playtime_activities")
 o=g.E7("Play & Activities",A.b([g.qj("Playtime Activities",o==null?"No activities recorded":o,B.P8)],a2))
 n=g.qj("Bathroom Breaks",g.d.i(0,c)!=null&&J.cl(g.d.i(0,c)).length!==0?A.i(g.d.i(0,c))+" times":d,B.Pb)
-m=g.qj("Temperature",g.d.i(0,b)!=null&&J.cl(g.d.i(0,b)).length!==0?A.i(g.d.i(0,b))+"\xb0F":d,B.P9)
+m=g.qj("Temperature",g.d.i(0,b)!=null&&J.cl(g.d.i(0,b)).length!==0?A.i(g.d.i(0,b))+"\xb0C":d,B.P9)
 n=g.E7("Health & Care",A.b([n,m,g.qj("Medication",g.d.i(0,a)!=null&&J.cl(g.d.i(0,a)).length!==0?g.d.i(0,a):"No medication given",B.P0)],a2))
 l=g.d.i(0,a0)!=null&&J.cl(g.d.i(0,a0)).length!==0
 m=A.ba(12)
