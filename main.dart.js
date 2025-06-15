@@ -52314,7 +52314,7 @@ j=g.id
 i=J.ih(g.k1,new A.aGa(),t.kZ)
 i=A.a1(i,i.$ti.h("ax.E"))
 h=t.p
-s=new A.a4(B.a0,A.v8(f,new A.Kg(A.b([A.b7Z(A.al(A.b([r,B.a6,q,B.b9,p,B.b9,o,B.b9,n,B.b9,m,B.b9,l,B.b9,k,B.a6,A.zj(B.UO,i,new A.aGb(g),new A.aGc(),j,t.S)],h),B.b0,f,B.j,B.i,0,B.m),B.ad0),A.b7Z(A.al(A.b([A.cG(!1,g.Q,B.UF,!1,f,f,f,1,!1,f,f,f,f,f,!1,f,f,B.w,f,new A.aGd()),B.b9,A.cG(!1,g.as,B.UZ,!1,f,f,f,1,!1,f,f,f,f,f,!1,f,f,B.w,f,new A.aGe()),B.b9,A.cG(!1,g.at,B.UI,!1,f,f,f,1,!1,f,f,f,f,f,!1,f,f,B.w,f,new A.aGf()),B.b9,A.cG(!1,g.ax,B.V5,!1,f,f,f,1,!1,f,f,f,f,f,!1,f,f,B.w,f,new A.aGg()),B.b9,A.cG(!1,g.ay,B.Vl,!1,f,f,f,1,!1,f,f,f,f,f,!1,f,f,B.w,f,new A.aGh()),B.b9,A.cG(!1,g.ch,B.UU,!1,f,f,B.iq,1,!1,f,f,f,f,f,!1,f,f,B.w,f,new A.aGi()),B.b9,A.cG(!1,g.CW,B.Vm,!1,f,f,f,1,!1,f,f,f,f,f,!1,f,f,B.w,f,f),B.b9,A.cG(!1,g.cx,B.UV,!1,f,f,B.iq,1,!1,f,f,f,f,f,!1,f,f,B.w,f,f)],h),B.b0,f,B.j,B.i,0,B.m),B.adA)],t.mE),B.a5B,s,new A.aGj(g),new A.aGl(g),f),g.d),f)}return A.cz(e,f,s,f,f)}}
+s=new A.a4(B.a0,A.v8(f,new A.Kg(A.b([A.b7Z(A.al(A.b([r,B.a6,q,B.b9,p,B.b9,o,B.b9,n,B.b9,m,B.b9,l,B.b9,k,B.a6,A.zj(B.UO,i,new A.aGb(g),new A.aGc(),j,t.S)],h),B.b0,f,B.j,B.i,0,B.m),B.ad_),A.b7Z(A.al(A.b([A.cG(!1,g.Q,B.UF,!1,f,f,f,1,!1,f,f,f,f,f,!1,f,f,B.w,f,new A.aGd()),B.b9,A.cG(!1,g.as,B.UZ,!1,f,f,f,1,!1,f,f,f,f,f,!1,f,f,B.w,f,new A.aGe()),B.b9,A.cG(!1,g.at,B.UI,!1,f,f,f,1,!1,f,f,f,f,f,!1,f,f,B.w,f,new A.aGf()),B.b9,A.cG(!1,g.ax,B.V5,!1,f,f,f,1,!1,f,f,f,f,f,!1,f,f,B.w,f,new A.aGg()),B.b9,A.cG(!1,g.ay,B.Vl,!1,f,f,f,1,!1,f,f,f,f,f,!1,f,f,B.w,f,new A.aGh()),B.b9,A.cG(!1,g.ch,B.UU,!1,f,f,B.iq,1,!1,f,f,f,f,f,!1,f,f,B.w,f,new A.aGi()),B.b9,A.cG(!1,g.CW,B.Vm,!1,f,f,f,1,!1,f,f,f,f,f,!1,f,f,B.w,f,f),B.b9,A.cG(!1,g.cx,B.UV,!1,f,f,B.iq,1,!1,f,f,f,f,f,!1,f,f,B.w,f,f)],h),B.b0,f,B.j,B.i,0,B.m),B.adA)],t.mE),B.a5B,s,new A.aGj(g),new A.aGl(g),f),g.d),f)}return A.cz(e,f,s,f,f)}}
 A.aFS.prototype={
 $0(){},
 $S:0}
@@ -52353,7 +52353,7 @@ $0(){this.a.cy=!1},
 $S:0}
 A.aG0.prototype={
 $1(a){var s=null
-return A.kt(A.b([A.dW(!1,B.kM,s,s,s,s,s,s,new A.aG_(a),s,s)],t.p),B.ad1,s,B.ae1)},
+return A.kt(A.b([A.dW(!1,B.kM,s,s,s,s,s,s,new A.aG_(a),s,s)],t.p),B.ad0,s,B.ae1)},
 $S:29}
 A.aG_.prototype={
 $0(){A.lP(this.a,A.bw(new A.aFZ(),null,t.z))},
@@ -52604,7 +52604,7 @@ g=A.cG(!1,a2.cx,B.V3,!1,a3,a3,a3,1,!1,a3,a3,a3,a3,a3,!1,a3,a3,B.w,a3,a3)
 f=A.cG(!1,a2.cy,B.UQ,!1,a3,a3,a3,1,!1,a3,a3,a3,a3,a3,!1,a3,a3,B.w,a3,a3)
 e=A.cG(!1,a2.db,B.V4,!1,a3,a3,a3,1,!1,a3,a3,a3,a3,a3,!1,a3,a3,B.w,a3,a3)
 d=A.cG(!1,a2.dx,B.V2,!1,a3,a3,a3,1,!1,a3,a3,a3,a3,a3,!1,a3,a3,B.w,a3,a3)
-c=A.eL(!1,B.ad_,a3,a3,a3,a3,a3,a3,a2.gaLk(),a3,a3)
+c=A.eL(!1,B.acZ,a3,a3,a3,a3,a3,a3,a2.gaLk(),a3,a3)
 b=a2.fy
 b=b!=null?new A.mV(A.avJ(a3,a3,new A.qT(b,1)),a3,a3,a3,150,150,a3,B.cq,a3,B.cb,B.y,B.ct,!1,a3):B.adr
 a=a2.dy
@@ -53601,7 +53601,7 @@ case 1:return A.u(p.at(-1),r)}})
 return A.w($async$l0,r)},
 a9(){this.ak()
 this.z.sbF(0,B.e.j(this.a.c))},
-G(a){var s=this,r=null,q="\u2022",p=A.cC(r,r,r,!0,B.u,r,1,r,r,r,!1,r,!1,r,r,r,r,!0,r,r,r,r,r,B.acZ,r,r,r,1,r,!0),o=A.cG(!1,s.z,B.uz,!1,r,r,r,1,!1,r,r,r,r,r,!0,r,r,B.w,r,r),n=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.d,r,r,r,r,r,2,B.uu,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),m=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.e,r,r,r,r,r,2,B.uB,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),l=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.f,r,r,r,r,r,2,B.uA,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),k=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.r,r,r,r,r,r,2,B.uy,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),j=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.w,r,r,r,r,r,2,B.uv,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),i=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.x,r,r,r,r,r,2,B.ux,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),h=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.y,r,r,r,r,r,2,B.uw,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),g=s.as?r:s.gIU(),f=A.ej(r,r,B.u,r,r,r,r,r,r,B.h,r,r,r,r,r,r,r,r,r,r)
+G(a){var s=this,r=null,q="\u2022",p=A.cC(r,r,r,!0,B.u,r,1,r,r,r,!1,r,!1,r,r,r,r,!0,r,r,r,r,r,B.ad6,r,r,r,1,r,!0),o=A.cG(!1,s.z,B.uz,!1,r,r,r,1,!1,r,r,r,r,r,!0,r,r,B.w,r,r),n=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.d,r,r,r,r,r,2,B.uu,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),m=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.e,r,r,r,r,r,2,B.uB,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),l=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.f,r,r,r,r,r,2,B.uA,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),k=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.r,r,r,r,r,r,2,B.uy,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),j=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.w,r,r,r,r,r,2,B.uv,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),i=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.x,r,r,r,r,r,2,B.ux,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),h=A.eG(!0,B.av,!1,r,!0,B.r,r,A.eS(),s.y,r,r,r,r,r,2,B.uw,B.v,!0,r,!0,r,!1,r,B.aw,r,r,r,r,r,r,r,1,r,r,!1,q,r,r,r,r,r,!1,r,r,!1,r,!0,r,B.a7,r,r,B.at,B.ap,r,r,r,r,r,r,r,!0,B.w,r,B.aK,r,r,r,r),g=s.as?r:s.gIU(),f=A.ej(r,r,B.u,r,r,r,r,r,r,B.h,r,r,r,r,r,r,r,r,r,r)
 return A.cz(p,r,A.hF(A.al(A.b([o,n,m,l,k,j,i,h,B.FI,A.eL(!1,s.as?B.en:B.acL,r,r,r,r,r,r,g,r,f)],t.p),B.b0,r,B.j,B.i,0,B.m),r,B.v,B.a0,r,r,B.a5),r,r)}}
 A.aI7.prototype={
 $0(){this.a.as=!0},
@@ -54223,7 +54223,7 @@ s.Ec(r)},
 $S:0}
 A.aFB.prototype={
 $1(a){var s=null,r=this.c,q=this.a,p=t.p,o=A.al(A.b([A.V("Form to create event on "+A.iT("MMMM dd, yyyy",s).f1(r),s,s,s,s,s,s,s,s),A.eG(!0,B.av,!1,s,!0,B.r,s,A.eS(),s,s,s,s,s,s,2,B.Vd,B.v,!0,s,!0,s,!1,s,B.aw,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,new A.aFy(q),s,s,s,!1,s,s,!1,s,!0,s,B.a7,s,s,B.at,B.ap,s,s,s,s,s,s,s,!0,B.w,s,B.aK,s,s,s,s)],p),B.o,s,B.j,B.ax,0,B.m)
-return A.kt(A.b([A.dW(!1,B.ad6,s,s,s,s,s,s,new A.aFz(q,this.b,a,r),s,s),A.dW(!1,B.e9,s,s,s,s,s,s,new A.aFA(a),s,s)],p),o,s,B.GJ)},
+return A.kt(A.b([A.dW(!1,B.ad5,s,s,s,s,s,s,new A.aFz(q,this.b,a,r),s,s),A.dW(!1,B.e9,s,s,s,s,s,s,new A.aFA(a),s,s)],p),o,s,B.GJ)},
 $S:29}
 A.aFy.prototype={
 $1(a){this.a.a=a},
@@ -55757,7 +55757,7 @@ A.aL(r,!1).bg(s)},
 PJ(a){if(a.length===0)return"https://via.placeholder.com/150"
 if(B.c.aV(a,"http://"))return B.c.fZ(a,"http://","https://")
 return a},
-G(a){var s,r=this,q=null,p=A.cC(q,q,q,!0,q,q,1,q,q,q,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,B.ad2,q,q,q,1,q,!0)
+G(a){var s,r=this,q=null,p=A.cC(q,q,q,!0,q,q,1,q,q,q,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,B.ad1,q,q,q,1,q,!0)
 if(r.e)s=B.bY
 else s=J.eT(r.d)?B.qN:A.eM(new A.aHi(r),J.bK(r.d),q,q,!1)
 return A.cz(p,q,s,q,q)}}
@@ -56018,7 +56018,7 @@ $0(){this.a.e=!1},
 $S:0}
 A.aVO.prototype={
 $1(a){var s=null,r=this.a
-return A.Jm(!0,A.b8O(A.b([A.cE(s,s,s,!0,!0,B.U7,s,new A.aVL(r,a),s,B.acf,s,s),A.cE(s,s,s,!0,!0,B.U4,s,new A.aVM(r,a),s,B.ad5,s,s),A.cE(s,s,s,!0,!0,B.U0,s,new A.aVN(r,a),s,B.acE,s,s)],t.p)),B.a2,!0)},
+return A.Jm(!0,A.b8O(A.b([A.cE(s,s,s,!0,!0,B.U7,s,new A.aVL(r,a),s,B.acf,s,s),A.cE(s,s,s,!0,!0,B.U4,s,new A.aVM(r,a),s,B.ad4,s,s),A.cE(s,s,s,!0,!0,B.U0,s,new A.aVN(r,a),s,B.acE,s,s)],t.p)),B.a2,!0)},
 $S:447}
 A.aVL.prototype={
 $0(){A.aL(this.b,!1).hf(null)
@@ -127812,8 +127812,8 @@ B.adb=new A.a_("Failed to delete media",null,null,null,null,null,null,null,null,
 B.a53=new A.dN(B.adb,null,null,null,null,null,null,null,null,null,null,null,null,B.al,null,null,null,B.r,null)
 B.acp=new A.a_("Staff registration successful!",null,null,null,null,null,null,null,null,null,null)
 B.a54=new A.dN(B.acp,null,null,null,null,null,null,null,null,null,null,null,null,B.al,null,null,null,B.r,null)
-B.ad4=new A.a_("Network error. Please try again later.",null,null,null,null,null,null,null,null,null,null)
-B.a55=new A.dN(B.ad4,B.az,null,null,null,null,null,null,null,null,null,null,null,B.al,null,null,null,B.r,null)
+B.ad3=new A.a_("Network error. Please try again later.",null,null,null,null,null,null,null,null,null,null)
+B.a55=new A.dN(B.ad3,B.az,null,null,null,null,null,null,null,null,null,null,null,B.al,null,null,null,B.r,null)
 B.acl=new A.a_("An error occurred while saving. Please try again.",null,null,null,null,null,null,null,null,null,null)
 B.FS=new A.dN(B.acl,null,null,null,null,null,null,null,null,null,null,null,null,B.es,null,null,null,B.r,null)
 B.adk=new A.a_("Failed to fetch child fees",null,null,null,null,null,null,null,null,null,null)
@@ -127840,8 +127840,8 @@ B.abD=new A.a_("Parent registration successful!",null,null,null,null,null,null,n
 B.a5e=new A.dN(B.abD,null,null,null,null,null,null,null,null,null,null,null,null,B.al,null,null,null,B.r,null)
 B.acq=new A.a_("Fee saved successfully",null,null,null,null,null,null,null,null,null,null)
 B.a5f=new A.dN(B.acq,null,null,null,null,null,null,null,null,null,null,null,null,B.al,null,null,null,B.r,null)
-B.ad3=new A.a_("Failed to save fee",null,null,null,null,null,null,null,null,null,null)
-B.a5g=new A.dN(B.ad3,null,null,null,null,null,null,null,null,null,null,null,null,B.al,null,null,null,B.r,null)
+B.ad2=new A.a_("Failed to save fee",null,null,null,null,null,null,null,null,null,null)
+B.a5g=new A.dN(B.ad2,null,null,null,null,null,null,null,null,null,null,null,null,B.al,null,null,null,B.r,null)
 B.aci=new A.a_("Failed to load media files",null,null,null,null,null,null,null,null,null,null)
 B.a5h=new A.dN(B.aci,null,null,null,null,null,null,null,null,null,null,null,null,B.al,null,null,null,B.r,null)
 B.ach=new A.a_("User updated successfully!",null,null,null,null,null,null,null,null,null,null)
@@ -128371,13 +128371,13 @@ B.GP=new A.a_("Are you sure you want to delete this media?",null,null,null,null,
 B.acS=new A.a_("Staff Record",null,null,null,null,null,null,null,null,null,null)
 B.acW=new A.a_("Request Appointment",null,B.aU,null,null,null,null,null,null,null,null)
 B.acY=new A.a_("Review the details of your payment",null,B.fU,null,null,null,null,null,null,null,null)
-B.acZ=new A.a_("Daily Activity Form",null,B.aU,null,null,null,null,null,null,null,null)
-B.ad_=new A.a_("Pick Image",null,null,null,null,null,null,null,null,null,null)
-B.ad0=new A.a_("Personal Information",null,null,null,null,null,null,null,null,null,null)
-B.ad1=new A.a_("Child created successfully!",null,null,null,null,null,null,null,null,null,null)
-B.ad2=new A.a_("Room Media",null,null,null,null,null,null,null,null,null,null)
-B.ad5=new A.a_("Gallery",null,null,null,null,null,null,null,null,null,null)
-B.ad6=new A.a_("Create",null,null,null,null,null,null,null,null,null,null)
+B.acZ=new A.a_("Pick Image",null,null,null,null,null,null,null,null,null,null)
+B.ad_=new A.a_("Personal Information",null,null,null,null,null,null,null,null,null,null)
+B.ad0=new A.a_("Child created successfully!",null,null,null,null,null,null,null,null,null,null)
+B.ad1=new A.a_("Room Media",null,null,null,null,null,null,null,null,null,null)
+B.ad4=new A.a_("Gallery",null,null,null,null,null,null,null,null,null,null)
+B.ad5=new A.a_("Create",null,null,null,null,null,null,null,null,null,null)
+B.ad6=new A.a_("Daily Activity Forms",null,B.aU,null,null,null,null,null,null,null,null)
 B.ad7=new A.a_("Track Attendance",null,B.is,null,null,null,null,null,null,null,null)
 B.kI=new A.p(!0,null,null,"Roboto",null,null,null,B.a3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.ad8=new A.a_("Child Detail",null,B.kI,null,null,null,null,null,null,null,null)
